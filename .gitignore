@@ -1,0 +1,11 @@
+# Thumbs
+*.db
+
+# Log file
+*.log
+
+# Target directory
+/target
+
+# Bin directory
+/bin  
